@@ -1,0 +1,152 @@
+/*
+* @Author: 曾宪林 877529974@qq.com
+* @Date:   2019-07-18 17:15:43
+* @Last Modified by:   zengxianlin
+* @Last Modified time: 2019-04-08 18:31:33
+*/
+
+html{
+    letter-spacing:0.5px;
+    overflow-y: scroll;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    /* overflow: hidden; */
+}
+html *{
+    outline: none;
+    -webkit-text-size-adjust: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+}
+html,body{
+    min-width: 1280px;
+    height: 100%;
+    /* background-color: #F4F4F4; */
+}
+.wrapper{
+    /* min-width: 1190px; */
+    width: 1200px;
+    margin: 0 auto;
+}
+.page-layout{
+    overflow-y: auto;
+    /* background-color: #fff; */
+}
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input,textarea, p, blockquote, th, td, hr, button, article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+    margin: 0;
+    padding: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    outline: none;
+    color: #111;
+    font-size:14px ;
+}
+input, select, textarea{
+    font-size: 100%;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+}
+input[type="number"]{
+  -moz-appearance: textfield;
+}
+button{
+    border:none;
+    background-color: rgba(0,0,0,0);
+}
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    table-layout:fixed;
+}
+fieldset, img{
+    border: 0;
+}
+abbr, acronym{
+    border: 0;
+    font-variant: normal;
+}
+del{
+    text-decoration: line-through;
+}
+address, caption, cite, code, dfn, em, th, var{
+    font-style: normal;
+    font-weight: 500;
+}
+ol, ul{
+    list-style: none;
+}
+caption, th{
+    text-align: left;
+}
+h1, h2, h3, h4, h5, h6{
+    font-size: 100%;
+    font-weight: 500;
+}
+q:before,q:after{
+    content: '';
+}
+sub, sup{
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
+}
+sup{
+    top: -.5em;
+}
+sub{
+    bottom: -.25em;
+}
+ins, a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:link{
+    text-decoration:none; /* 指正常的未被访问过的链接*/
+}
+a:visited{
+    text-decoration:none; /*指已经访问过的链接*/
+}
+a:hover{
+    text-decoration:none; /*指鼠标在链接*/
+}
+a:active{
+    text-decoration:none; /* 指正在点的链接*/
+}
+
+::-webkit-scrollbar{
+    width: 7px;
+    height: 7px;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color:#dddee0;
+    border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover{
+    background-color:#c7c9cc;
+}
+
+::-webkit-scrollbar-cornor{
+    background-color:#dddee0;
+    border-radius: 2px;
+}
+
+*::-moz-selection{
+    background:#20a0ff;
+    color:#fff;
+}
+*::selection{
+    background:#20a0ff;
+    color:#fff;
+}
+* {
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+}
