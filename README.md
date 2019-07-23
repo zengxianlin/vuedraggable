@@ -57,5 +57,7 @@ npm run build
 感谢热心网友提供的文章支持！
 
 > https://sortablejs.github.io/Sortable/
+
 > https://sortablejs.github.io/Vue.Draggable/#/simple
+
 > https://blog.csdn.net/zjiang1994/article/details/79809687
