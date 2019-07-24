@@ -11,9 +11,9 @@
 ------
 ### 效果图
 
-![效果图1](https://github.com/zengxianlin/vuedraggable/blob/master/src/assets/00.jpf)
+![效果图1](https://github.com/zengxianlin/vuedraggable/blob/master/src/assets/00.jpg)
 
-![效果图2](https://github.com/zengxianlin/vuedraggable/blob/master/src/assets/01.jpf)
+![效果图2](https://github.com/zengxianlin/vuedraggable/blob/master/src/assets/01.jpg)
 
 ![效果图3](https://github.com/zengxianlin/vuedraggable/blob/master/src/assets/02.gif)
 
