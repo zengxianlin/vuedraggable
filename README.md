@@ -11,7 +11,11 @@
 ------
 ### 效果图
 
-![效果图1](https://github.com/zengxianlin/dug-movie/blob/master/src/assets/1.gif)
+![效果图1](https://github.com/zengxianlin/vuedraggable/tree/master/src/assets/00.jpf)
+
+![效果图1](https://github.com/zengxianlin/vuedraggable/tree/master/src/assets/01.jpf)
+
+![效果图1](https://github.com/zengxianlin/vuedraggable/tree/master/src/assets/02.gif)
 
 ### 技术栈
 在此DEMO中使用了一下技术
