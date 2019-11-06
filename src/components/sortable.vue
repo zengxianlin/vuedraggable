@@ -132,7 +132,7 @@ import { log } from 'util';
         },
         updated(){
             
-            // console.log(this.tagTableRight);
+            console.log(this.tagTableRight);
         },
         methods:{
             log: function(evt) {

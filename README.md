@@ -24,6 +24,12 @@
 * echarts
 * iview
 
+### 在线体验
+
+```shell
+git clone https://zengxianlin.github.io/vue/dragging
+```
+
 ### 项目地址：（`git clone`）
 
 ```shell
