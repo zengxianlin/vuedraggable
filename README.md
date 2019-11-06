@@ -9,6 +9,10 @@
 > 这是基于vue2 + vuedraggable + echarts + iview + 写的的一个可拖拽图表的demo！
 公司有个项目需要用到拖拽，无奈百度了一番，却发现并没有类似拖拽图表的插件，那就只有自己撸起袖子干了。
 ------
+
+### 在线体验
+https://zengxianlin.github.io/vue/dragging
+
 ### 效果图
 
 ![效果图1](https://github.com/zengxianlin/vuedraggable/blob/master/src/assets/00.jpg)
@@ -24,8 +28,6 @@
 * echarts
 * iview
 
-### 在线体验
-https://zengxianlin.github.io/vue/dragging
 
 ### 项目地址：（`git clone`）
 
